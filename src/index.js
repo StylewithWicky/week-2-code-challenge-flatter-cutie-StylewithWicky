@@ -5,7 +5,7 @@ function main(){
 
 document.addEventListener("DOMContentLoaded",main);
 
-    const baseUrl = "https://fantastic-potato-ysku-ke36pzuuy-yazzzs-projects.vercel.app/characters";
+    const baseUrl = "https://fantastic-potato-iajp.vercel.app/characters";
     const characterBar = document.getElementById("character-bar");
     const detailedInfo = document.getElementById("detailed-info");
     const characterName = document.getElementById("name");
